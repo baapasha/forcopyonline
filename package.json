@@ -34,7 +34,7 @@
     "sqlite": "^3.0.3",
     "sqlite3": "^4.0.6",
     "stackos": "1.1.0",
-    "superagent": "4.1.0",
+    "superagent": "6.1.0",
     "table": "^5.2.2",
     "until": "^0.1.1",
     "ustat": "0.0.2",

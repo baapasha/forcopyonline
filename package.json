@@ -31,7 +31,7 @@
     "path": "0.12.7",
     "quick.db": "^6.3.2",
     "replace": "^1.1.0",
-    "sqlite": "^3.0.3",
+    "sqlite": "^4.0.18",
     "sqlite3": "^4.0.6",
     "stackos": "1.1.0",
     "superagent": "4.1.0",

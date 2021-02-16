@@ -32,7 +32,7 @@
     "quick.db": "^6.3.2",
     "replace": "^1.1.0",
     "sqlite": "^3.0.3",
-    "sqlite3": "^4.0.6",
+    "sqlite3": "^5.0.2",
     "stackos": "1.1.0",
     "superagent": "4.1.0",
     "table": "^5.2.2",

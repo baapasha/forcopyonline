@@ -18,7 +18,7 @@
     "ffmpeg-binaries": "^4.0.0",
     "figlet": "^1.2.1",
     "file-system": "^2.2.2",
-    "forever": "^0.15.3",
+    "forever": "^4.0.0",
     "fortnite": "^4.3.2",
     "node-emoji": "^1.10.0",
     "message": "0.0.1",

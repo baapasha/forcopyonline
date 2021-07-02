@@ -14,7 +14,7 @@
     "better-sqlite-pool": "^0.2.2",
     "guild": "^1.2.2",
     "delay": "^4.1.0",
-    "enmap": "^4.8.1",
+    "enmap": "^5.8.6",
     "ffmpeg-binaries": "^4.0.0",
     "figlet": "^1.2.1",
     "file-system": "^2.2.2",
